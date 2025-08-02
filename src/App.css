@@ -1,4 +1,10 @@
-h1{
+p{
+  align-items: center;
+  text-align: center;
+  color: green;
+
+}h1{
+  align-items: center;
   text-align: center;
   color:red;
 
